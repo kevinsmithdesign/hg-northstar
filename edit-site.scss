@@ -1,0 +1,27 @@
+// .website-builder-nav {
+//   width:310px;
+//   background:white;
+//   height:100vh;
+// }
+
+.bg-img {
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2392702/screencapture-hostgatordesign-xyz-wp-admin-2020-02-03-09_41_43.png");
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  height:100vh;
+  background-position-y:70px;
+}
+
+.wp-helper-btn {
+  width:48px;
+  height:48px;
+  background:white;
+  position:absolute;
+  bottom:20px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  text-align:center;
+  line-height:60px;
+  cursor:pointer;
+}
+
